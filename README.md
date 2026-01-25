@@ -1,10 +1,10 @@
-# 🎯 Guess My Number (Java)
+# Guess My Number (Java)
 
 A simple and fun **"Guess My Number"** game built using **Java** — perfect for beginners learning loops, conditionals, and user input!
 
 ---
 
-## 🧩 Features
+## Features
 - Random number generation between 1 and 100  
 - Hints for "Too High" or "Too Low" guesses  
 - Keeps track of the number of attempts  
@@ -12,7 +12,7 @@ A simple and fun **"Guess My Number"** game built using **Java** — perfect for
 
 ---
 
-## 🖥️ How to Run
+## How to Run
 
 ### 1. Clone this repository
 ```bash
