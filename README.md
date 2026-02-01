@@ -1,6 +1,6 @@
 # Guess My Number (Java)
 
-A simple and fun **"Guess My Number"** game built using **Java** — perfect for beginners learning loops, conditionals, and user input!
+A simple and fun **"Guess My Number"** game built using **Java** — perfect for beginners learning loops, conditionals and user input!
 
 ---
 
